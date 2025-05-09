@@ -36,5 +36,6 @@ PCへの負荷も最低限で重たいゲームやアプリケーションを使
 ## 掲載
 
 [「パソコンショップ アーク」様 /](https://x.com/ark_akiba/status/1918141047584244155?s=61)
-[「denkijoshi」様 /] 「ミニIPSディスプレイにモンハンデータ表示させてみた」(https://note.com/denkijoshi/n/ncc04285158d1)
+
+[「denkijoshi」様 / 「ミニIPSディスプレイにモンハンデータ表示させてみた」](https://note.com/denkijoshi/n/ncc04285158d1)
 
