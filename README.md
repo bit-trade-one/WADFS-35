@@ -2,7 +2,7 @@
 
 ## PCパフォーマンスを常時監視！USB接続3.5型ミニIPSディスプレイ WADFS-35
 
-![](img/main.png)
+![](img/image.png)
 
 『USB接続3.5型ミニIPSディスプレイ』はWindowsのディスプレイ設定を崩さない独立型モニタです。
 USBデバイスとして認識されるため、Windowsのモニタ設定を変更する必要なし。
