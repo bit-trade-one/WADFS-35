@@ -14,14 +14,8 @@ PCへの負荷も最低限で重たいゲームやアプリケーションを使
 
 ## [製品HPリンク](https://bit-trade-one.co.jp/wadfs35/) 
 
-### [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### [マニュアル](https://bit-trade-one.co.jp/wadfs35/manual/)
 
-### [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-### [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
+### [アプリケーションソフトウェア](https://bit-trade-one.co.jp/forUser/WADFS-35WeActStudioSystemMonitor.zip)  
 
 ### [Q&A](FAQ.md)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
