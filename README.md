@@ -39,3 +39,5 @@ PCへの負荷も最低限で重たいゲームやアプリケーションを使
 
 [「denkijoshi」様 / 「ミニIPSディスプレイにモンハンデータ表示させてみた」](https://note.com/denkijoshi/n/ncc04285158d1)
 
+[「ELIXIR(misawa)」様 / 「WADFS-35 ミニIPSディスプレイをPythonで使用する」](https://qiita.com/ELIXIR/items/fe11c0dbff241ef44c10)
+
