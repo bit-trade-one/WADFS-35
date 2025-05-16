@@ -18,9 +18,9 @@ PCへの負荷も最低限で重たいゲームやアプリケーションを使
 
 ### [アプリケーションソフトウェア](https://bit-trade-one.co.jp/forUser/WADFS-35WeActStudioSystemMonitor.zip)  
 
-## [FAQ](FAQ.md)
+### [カスタムテーマ](CustomTheme)
 
-## [カスタムテーマ](CustomTheme)
+## [FAQ](FAQ.md)
 
 ## 製品仕様
     【本体寸法】 約58mm×88mm×9.0mm
