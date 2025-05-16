@@ -12,7 +12,7 @@ PCへの負荷も最低限で重たいゲームやアプリケーションを使
 付属の飾りネジやベルクロテープを利用して、モニタの横やキーボード周辺、PCケース上など柔軟な設置が可能です。
 
 
-## [製品HPリンク](https://bit-trade-one.co.jp/wadfs35/) 
+### [製品HPリンク](https://bit-trade-one.co.jp/wadfs35/) 
 
 ### [マニュアル](https://bit-trade-one.co.jp/wadfs35/manual/)
 
@@ -20,7 +20,7 @@ PCへの負荷も最低限で重たいゲームやアプリケーションを使
 
 ### [カスタムテーマ](CustomTheme)
 
-## [FAQ](FAQ.md)
+### [FAQ](FAQ.md)
 
 ## 製品仕様
     【本体寸法】 約58mm×88mm×9.0mm
