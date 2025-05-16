@@ -2,7 +2,9 @@
 
 ## Q.アプリをもう一度立ち上げたい
 
-### A.タスクバーにある検索欄にて「System Monitor Configure」を検索し、System Monitor Configure.batを用いてアプリを立ち上げることができます。
+### A.System Monitor Configure.batを用いてアプリを立ち上げることができます。
+
+見つからない場合は、タスクバーにある検索欄にて「System Monitor Configure.bat」を検索してください。
 
 
 
