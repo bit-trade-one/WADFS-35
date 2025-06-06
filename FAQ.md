@@ -7,16 +7,17 @@
 
 
 
-## Q.アプリをもう一度立ち上げたい
+## Q.アプリを立ち上げたい
 
-### A.System Monitor Configure.batを用いてアプリを立ち上げることができます。
-
-見つからない場合は、タスクバーにある検索欄にて「System Monitor Configure.bat」を検索してください。
+### A.Windowsのスタートメニューより、"System Monitor Configure"を用いてアプリを立ち上げることができます。
+![](img/appExe.png)
+システムモニタが起動済みの場合は、Windowsのタスクトレイの以下のアイコンを右クリックし、「設定」を選択してください。
+![](img/appSet.png)
 
 
 
 
 ## Q.アプリを終了したい
 
-### A.アプリ上にある「保存と実行」を選択することで終了できます。
-![](img/appDrop.png)
+### A.Windowsのタスクトレイの以下のアイコンを右クリックし、「出口」を選択してください。
+![](img/appSet.png)
